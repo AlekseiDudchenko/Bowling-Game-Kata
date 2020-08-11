@@ -1,9 +1,7 @@
-package com.duch;
+package com.duch.bowling.game;
 
+import com.duch.bowling.game.Game;
 import junit.framework.TestCase;
-import org.junit.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 public class GameTest extends TestCase {
     private Game g;

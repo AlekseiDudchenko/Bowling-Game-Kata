@@ -1,4 +1,4 @@
-package com.duch;
+package com.duch.bowling.game;
 
 public class Game {
     private int rolls[] = new int[21];
